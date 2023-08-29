@@ -1,1 +1,1 @@
-# Formulário com validação | JavaScript puto
+# Formulário com validação | JavaScript puro
