@@ -1,5 +1,4 @@
 # Formulário com validação | JavaScript puro
-<<<<<<< HEAD
 
 Esta é a minha proposta de solução para a quest do módulo JavaScript Intermediário do DevQuest.
 
@@ -33,5 +32,3 @@ O desafio era construir um formulário com validação (em JS puro). O preenchim
 - <img src="./assets/img/trofeu.png" alt="HTML5 Icon" width="50px"/> HTML5 semântico;
 - <img src="./assets/img/social.png" alt="CSS3 Icon" width="50px"/> CSS3 para estilização;
 - <img src="./assets/img/js.png" alt="JavaScript Icon" width="50px"/> JavaScript puro para validação do formulário;
-=======
->>>>>>> a41b0c0f50e6d2323f0d436cc652a3946532e938
